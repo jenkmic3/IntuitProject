@@ -1,0 +1,89 @@
+A1 Snickers .60
+A1 Snickers .60
+A1 Snickers .60
+A1 Snickers .60
+A1 Snickers .60
+
+A2 MilkyWay .60
+A2 MilkyWay .60
+A2 MilkyWay .60
+A2 MilkyWay .60
+A2 MilkyWay .60
+
+A3 Reeses_Pieces .60
+A3 Reeses_Pieces .60
+A3 Reeses_Pieces .60
+A3 Reeses_Pieces .60
+A3 Reeses_Pieces .60
+
+A4 Twix .60
+A4 Twix .60
+A4 Twix .60
+A4 Twix .60
+A4 Twix .60
+
+A5 MilkyWay .60
+A5 MilkyWay .60
+A5 MilkyWay .60
+A5 MilkyWay .60
+A5 MilkyWay .60
+
+B1 Hersheys .60
+B1 Hersheys .60
+B1 Hersheys .60
+B1 Hersheys .60
+B1 Hersheys .60
+
+B2 M_M_Peanuts .60
+B2 M_M_Peanuts .60
+B2 M_M_Peanuts .60
+B2 M_M_Peanuts .60
+B2 M_M_Peanuts .60
+
+B3 M_M_Original .60
+B3 M_M_Original .60
+B3 M_M_Original .60
+B3 M_M_Original .60
+B3 M_M_Original .60
+
+B4 Kit_Kat .60
+B4 Kit_Kat .60
+B4 Kit_Kat .60
+B4 Kit_Kat .60
+B4 Kit_Kat .60
+
+B5 Skittles .60
+B5 Skittles .60
+B5 Skittles .60
+B5 Skittles .60
+B5 Skittles .60
+
+C1 Lays_Original .75
+C1 Lays_Original .75
+C1 Lays_Original .75
+C1 Lays_Original .75
+C1 Lays_Original .75
+
+C2 Trail_Mix 1.00
+C2 Trail_Mix 1.00
+C2 Trail_Mix 1.00
+C2 Trail_Mix 1.00
+C2 Trail_Mix 1.00
+
+C3 Fritos .75
+C3 Fritos .75
+C3 Fritos .75
+C3 Fritos .75
+C3 Fritos .75
+
+C4 Orbitz 1.25
+C4 Orbitz 1.25
+C4 Orbitz 1.25
+C4 Orbitz 1.25
+C4 Orbitz 1.25
+
+C5 Popcorn 1.50
+C5 Popcorn 1.50
+C5 Popcorn 1.50
+C5 Popcorn 1.50
+C5 Popcorn 1.50
